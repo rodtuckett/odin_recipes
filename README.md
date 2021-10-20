@@ -1,0 +1,1 @@
+Purpose of this project: build a basic recipe website, demonstrate foundational html/css skills
